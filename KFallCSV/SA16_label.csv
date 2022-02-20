@@ -1,0 +1,77 @@
+﻿Task Code, Task ID,Description,Trial ID,Fall_onset_frame,Fall_impact_frame
+F01,20,Forward fall when trying to sit down,1,195,259
+F01,20,Forward fall when trying to sit down,2,277,353
+F01,20,Forward fall when trying to sit down,3,147,209
+F01,20,Forward fall when trying to sit down,4,300,364
+F01,20,Forward fall when trying to sit down,5,272,337
+F02,21,Backward fall when trying to sit down,1,202,246
+F02,21,Backward fall when trying to sit down,2,273,319
+F02,21,Backward fall when trying to sit down,3,268,306
+F02,21,Backward fall when trying to sit down,4,280,326
+F02,21,Backward fall when trying to sit down,5,248,285
+F02,21,Backward fall when trying to sit down,6,287,330
+F03,22,lateral fall when trying to sit down,1,328,392
+F03,22,lateral fall when trying to sit down,2,357,431
+F03,22,lateral fall when trying to sit down,3,400,458
+F03,22,lateral fall when trying to sit down,4,353,415
+F03,22,lateral fall when trying to sit down,5,334,404
+F04,23,Forward fall when trying to get up,1,321,381
+F04,23,Forward fall when trying to get up,2,328,393
+F04,23,Forward fall when trying to get up,3,315,392
+F04,23,Forward fall when trying to get up,4,312,380
+F04,23,Forward fall when trying to get up,5,312,380
+F05,24,lateral fall when trying to get up,1,320,381
+F05,24,lateral fall when trying to get up,2,335,411
+F05,24,lateral fall when trying to get up,3,312,373
+F05,24,lateral fall when trying to get up,4,325,387
+F05,24,lateral fall when trying to get up,5,310,385
+F06,25,"Forward fall while sitting, caused by fainting",1,295,372
+F06,25,"Forward fall while sitting, caused by fainting",2,312,415
+F06,25,"Forward fall while sitting, caused by fainting",3,326,422
+F06,25,"Forward fall while sitting, caused by fainting",4,322,418
+F06,25,"Forward fall while sitting, caused by fainting",5,354,438
+F07,26,"Backward fall while sitting, caused by fainting",1,297,377
+F07,26,"Backward fall while sitting, caused by fainting",2,366,438
+F07,26,"Backward fall while sitting, caused by fainting",3,373,460
+F07,26,"Backward fall while sitting, caused by fainting",4,314,385
+F07,26,"Backward fall while sitting, caused by fainting",5,304,371
+F08,27,"lateral fall while sitting, caused by fainting",1,240,306
+F08,27,"lateral fall while sitting, caused by fainting",2,281,345
+F08,27,"lateral fall while sitting, caused by fainting",3,346,411
+F08,27,"lateral fall while sitting, caused by fainting",4,306,367
+F08,27,"lateral fall while sitting, caused by fainting",5,255,316
+F09,28,Vertical(forward) fall while walking caused by fainting,1,351,418
+F09,28,Vertical(forward) fall while walking caused by fainting,2,348,424
+F09,28,Vertical(forward) fall while walking caused by fainting,3,331,403
+F09,28,Vertical(forward) fall while walking caused by fainting,4,317,390
+F09,28,Vertical(forward) fall while walking caused by fainting,5,367,437
+F10,29,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",1,457,539
+F10,29,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",2,422,508
+F10,29,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",3,483,558
+F10,29,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",4,512,598
+F10,29,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",5,515,597
+F11,30,Forward fall while walking caused by a trip,1,293,353
+F11,30,Forward fall while walking caused by a trip,2,272,334
+F11,30,Forward fall while walking caused by a trip,3,270,326
+F11,30,Forward fall while walking caused by a trip,4,294,354
+F11,30,Forward fall while walking caused by a trip,5,276,333
+F12,31,Forward fall while jogging caused by a trip,1,183,244
+F12,31,Forward fall while jogging caused by a trip,2,174,226
+F12,31,Forward fall while jogging caused by a trip,3,188,239
+F12,31,Forward fall while jogging caused by a trip,4,194,247
+F12,31,Forward fall while jogging caused by a trip,5,162,219
+F13,32,Forward fall while walking caused by a slip,1,217,275
+F13,32,Forward fall while walking caused by a slip,2,245,306
+F13,32,Forward fall while walking caused by a slip,3,242,295
+F13,32,Forward fall while walking caused by a slip,4,213,276
+F13,32,Forward fall while walking caused by a slip,5,220,278
+F14,33,Forward lateral fall while walking caused by a slip,1,238,304
+F14,33,Forward lateral fall while walking caused by a slip,2,237,300
+F14,33,Forward lateral fall while walking caused by a slip,3,213,279
+F14,33,Forward lateral fall while walking caused by a slip,4,207,267
+F14,33,Forward lateral fall while walking caused by a slip,5,303,365
+F15,34,Backward fall while walking caused by a slip,1,247,303
+F15,34,Backward fall while walking caused by a slip,2,255,317
+F15,34,Backward fall while walking caused by a slip,3,273,329
+F15,34,Backward fall while walking caused by a slip,4,282,338
+F15,34,Backward fall while walking caused by a slip,5,253,312
